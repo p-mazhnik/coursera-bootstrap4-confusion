@@ -114,3 +114,8 @@ typings/
 
 # next.js build output
 .next
+.DS_Store
+.idea/conFusion.iml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
